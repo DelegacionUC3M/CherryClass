@@ -1,0 +1,13 @@
+appdirs
+click
+Flask
+Flask-SQLAlchemy
+itsdangerous
+MarkupSafe
+packaging
+psycopg2
+pyparsing
+six
+SQLAlchemy
+Werkzeug
+requests
